@@ -419,6 +419,7 @@ footer {
         top: 3rem;
         right: 2rem;
         color: var(--white);
+        padding: 1rem;
     }
 
     .menu {
